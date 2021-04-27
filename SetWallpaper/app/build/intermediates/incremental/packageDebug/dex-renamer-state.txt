@@ -1,0 +1,7 @@
+#Thu Jun 01 23:41:58 CST 2017
+base.0=/home/zhaungjie/Android/SetWallpaper/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6f94af8d1c4bd1592f7cc3161d5a2a2563a2fe84
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/zhaungjie/Android/SetWallpaper/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_91b0f550f15ec7b519b3eaf117f05e4f3ff56641/classes.dex
+base.1=/home/zhaungjie/Android/SetWallpaper/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_91b0f550f15ec7b519b3eaf117f05e4f3ff56641
+file.0=/home/zhaungjie/Android/SetWallpaper/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6f94af8d1c4bd1592f7cc3161d5a2a2563a2fe84/classes.dex
