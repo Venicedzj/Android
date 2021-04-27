@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/zhaungjie/Android/News x/app/build/intermediates/res/merged/debug/mipmap-hdpi/back.png",
+        "source": "/home/zhaungjie/Android/News x/app/src/main/res/mipmap-hdpi/back.png"
+    },
+    {
+        "merged": "/home/zhaungjie/Android/News x/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/zhaungjie/Android/News x/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/zhaungjie/Android/News x/app/build/intermediates/res/merged/debug/mipmap-hdpi/news.png",
+        "source": "/home/zhaungjie/Android/News x/app/src/main/res/mipmap-hdpi/news.png"
+    }
+]

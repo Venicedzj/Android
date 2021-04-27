@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/zhaungjie/Android/News x/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/zhaungjie/Android/News x/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_8a36b9a48eeb0467c455bccdbf1ec698878e8151/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zhaungjie/Android/News x/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/home/zhaungjie/Android/News x/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.2.0_f74b9930c2b04102f9c711b6d3b05929c9c9ef26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zhaungjie/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/zhaungjie/Android/News x/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_a1ba9e19cb18da7a80d27573e6da96c9bd10662b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zhaungjie/Android/News x/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/zhaungjie/Android/News x/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_e34b18e2de6431f97c6ecaea2e5c214977f4b7b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zhaungjie/Android/News x/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/zhaungjie/Android/News x/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_24d1def47f1e558106fa9d829b0c3b2d71a2797d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zhaungjie/Android/News x/app/build/intermediates/exploded-aar/com.android.support/transition/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/home/zhaungjie/Android/News x/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.2.0_4b29a48bf1049e304496596c8d876a0eeb4e8921/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zhaungjie/Android/News x/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/zhaungjie/Android/News x/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_d41512d1b388d1df22e1c4fe30fc34134f80a920/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zhaungjie/Android/News x/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/zhaungjie/Android/News x/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_88c43ef75e7a201170574af306f776373cac6b3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zhaungjie/Android/News x/app/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d">
+        <dex dex="/home/zhaungjie/Android/News x/app/build/intermediates/transforms/dex/debug/folders/1000/2/volley_d382c5ded5456981375747d33df3b960db227248/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zhaungjie/Android/News x/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/zhaungjie/Android/News x/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_248a45f6fcd5370dd297300b0c0156da8f27c219/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zhaungjie/Android/News x/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/home/zhaungjie/Android/News x/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.2.0_83203f55065f944316c2c5b80a0dd1cffba29ac1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zhaungjie/Android/News x/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7885f0c7dad42fe73071f2fbce9042457809769a">
+        <dex dex="/home/zhaungjie/Android/News x/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fbd0d9679a46dc36273a4d3a59f246c232f55c73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zhaungjie/Android/News x/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b84f842e8fb875ac693636c4dd910f7afa2fc36b">
+        <dex dex="/home/zhaungjie/Android/News x/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_735b50e97ac43cefd78c141ccc1c70084d30e3f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zhaungjie/Android/News x/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/zhaungjie/Android/News x/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_ceb2fa86b6199a3ffc674fe971d0b1a7a8e95120/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zhaungjie/Android/News x/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/zhaungjie/Android/News x/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_873abce50c2b21a3a55a39f3ed11051e2e1be4e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zhaungjie/Android/News x/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/zhaungjie/Android/News x/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_e2f763b632c5bd4454162906bb9112f2894f4d01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zhaungjie/Android/News x/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/zhaungjie/Android/News x/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.2_744d7dcf11ba8bed0142506373ef1162143bcb63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zhaungjie/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/zhaungjie/Android/News x/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_fbc877ddfb7149679cf15baf58bf57a9d061b2e6/classes.dex" />
+    </item>
+
+</items>

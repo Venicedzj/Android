@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/zhaungjie/Android/News x/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/activity_main.xml",
+        "source": "/home/zhaungjie/Android/News x/app/src/main/res/layout-sw600dp/activity_main.xml"
+    },
+    {
+        "merged": "/home/zhaungjie/Android/News x/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/home/zhaungjie/Android/News x/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]

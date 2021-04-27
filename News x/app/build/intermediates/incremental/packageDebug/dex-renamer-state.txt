@@ -1,0 +1,7 @@
+#Fri Mar 09 11:55:08 CST 2018
+base.0=/home/zhaungjie/Android/News x/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_735b50e97ac43cefd78c141ccc1c70084d30e3f3
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/zhaungjie/Android/News x/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fbd0d9679a46dc36273a4d3a59f246c232f55c73/classes.dex
+base.1=/home/zhaungjie/Android/News x/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fbd0d9679a46dc36273a4d3a59f246c232f55c73
+file.0=/home/zhaungjie/Android/News x/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_735b50e97ac43cefd78c141ccc1c70084d30e3f3/classes.dex
